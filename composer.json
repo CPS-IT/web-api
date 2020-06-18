@@ -13,9 +13,9 @@
         "php"              : ">=7.1.0",
         "ext-json"         : "*",
         "guzzlehttp/guzzle": "^6.0",
-        "symfony/console"  : "^3.0",
+        "symfony/console"  : "^3.0 || ^4.0",
         "s1lentium/iptools": "*",
-        "symfony/yaml"     : "*"
+        "symfony/yaml"     : "^4.1"
     },
     "require-dev"      : {
         "phpunit/phpunit": "^7.5"
